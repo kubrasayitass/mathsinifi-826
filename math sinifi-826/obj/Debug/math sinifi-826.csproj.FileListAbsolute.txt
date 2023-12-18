@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\math sinifi-826\math sinifi-826\bin\Debug\math sinifi-826.exe.config
+C:\Users\User\source\repos\math sinifi-826\math sinifi-826\bin\Debug\math sinifi-826.exe
+C:\Users\User\source\repos\math sinifi-826\math sinifi-826\bin\Debug\math sinifi-826.pdb
+C:\Users\User\source\repos\math sinifi-826\math sinifi-826\obj\Debug\math sinifi-826.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\math sinifi-826\math sinifi-826\obj\Debug\math sinifi-826.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\math sinifi-826\math sinifi-826\obj\Debug\math_sinifi_826.Form1.resources
+C:\Users\User\source\repos\math sinifi-826\math sinifi-826\obj\Debug\math_sinifi_826.Properties.Resources.resources
+C:\Users\User\source\repos\math sinifi-826\math sinifi-826\obj\Debug\math sinifi-826.csproj.GenerateResource.cache
+C:\Users\User\source\repos\math sinifi-826\math sinifi-826\obj\Debug\math sinifi-826.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\math sinifi-826\math sinifi-826\obj\Debug\math sinifi-826.exe
+C:\Users\User\source\repos\math sinifi-826\math sinifi-826\obj\Debug\math sinifi-826.pdb
